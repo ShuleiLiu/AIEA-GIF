@@ -27,6 +27,9 @@ The best results obtained by AIEA
 ### WingspanMazimizer-v0
 <img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/WingspanMazimizer-v0_0.819.gif" />
 
+### Jumper-v0
+<img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/Jumper-v0_0.561.gif" />
+
 ### Flipper-v0
 <img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/Flipper-v0_32.11.gif" />
 
