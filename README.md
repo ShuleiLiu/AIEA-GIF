@@ -4,5 +4,5 @@ The best results obtained by AIEA
 
 ## Easy Tasks
 ### Walker-v0
-<img src="" width=200 height=360 />
+<img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/Walker-v0_10.598.gif" width=200 height=150 />
 
