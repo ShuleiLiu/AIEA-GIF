@@ -1,7 +1,7 @@
 
 # Medium Tasks
 
-The optimal robots obtained by AIEA. The numbers of real fitness evaluations is set as 100.
+The optimal robots obtained by AIEA. The numbers of real fitness evaluations is set as 150.
 
 ### BidirectionalWalker-v0
 Reward: 3.816
