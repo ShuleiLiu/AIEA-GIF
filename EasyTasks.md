@@ -1,9 +1,11 @@
 
 # Easy Tasks
 
-The optimal robots obtained by AIEA simulate on easy tasks. 
+The optimal robots obtained by AIEA.
+The numbers of real fitness evaluations is set as 100.
 
 ### Walker-v0
+Reward: 10.598
 <img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/Walker-v0_10.598.gif" />
 
 ### BridgeWalker-v0
