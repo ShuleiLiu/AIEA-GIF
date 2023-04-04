@@ -1,5 +1,5 @@
 
-# Easy Tasks
+# Medium Tasks
 
 The optimal robots obtained by AIEA simulate on easy tasks. 
 
