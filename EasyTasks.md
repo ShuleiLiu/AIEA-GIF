@@ -6,15 +6,13 @@ The numbers of real fitness evaluations is set as 100.
 
 ### Walker-v0
 Reward: 10.598
-<img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/Walker-v0_10.598.gif" />
 
 <figure>
-<img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/Walker-v0_10.598.gif" />
-<img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/Walker-v0_10.598.gif" />
-<img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/Walker-v0_10.598.gif" />
-<img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/Walker-v0_10.598.gif" />
+<img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/Walker-v0_10.598.gif"  width=100/>
+<img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/Walker-v0_10.598.gif"  width=100/>
+<img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/Walker-v0_10.598.gif"  width=100/>
+<img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/Walker-v0_10.598.gif"  width=100/>
 </figure>
-</center>
 
 ### BridgeWalker-v0
 Reward: 6.539
