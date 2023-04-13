@@ -1,4 +1,4 @@
-## Easy Tasks</title>
+## Easy Tasks
 
 
 The optimal robots obtained by GA, BO, RFEA, and AIEA in five independent runs.
