@@ -1,10 +1,5 @@
+## Easy Tasks</title>
 
-
-<html>
-<head>
-<title>Easy Tasks</title>
-</head>
-<body>
 
 The optimal robots obtained by GA, BO, RFEA, and AIEA in five independent runs.
 
@@ -97,6 +92,3 @@ The page's loading speed is slow, please be patient. Thank you!
 <td><center><img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/gif/aiea_Balancer-v0_0.126.gif" />Reward:0.126</center></td>
 </tr>
 </table>
-  
-</body>
-</html>
