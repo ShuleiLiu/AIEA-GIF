@@ -7,10 +7,10 @@ The numbers of real fitness evaluations is set as 100.
 ### Walker-v0
 <table>
     <tr>
-       <td><center><img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/BridgeWalker-v0_6.539.gif" >图1  范冰冰 </center></td>
-       <td><center><img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/BridgeWalker-v0_6.539.gif" >图1  范冰冰 </center></td>
-       <td><center><img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/BridgeWalker-v0_6.539.gif" >图1  范冰冰 </center></td>
-       <td><center><img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/BridgeWalker-v0_6.539.gif" >图1  范冰冰 </center></td>
+       <td><center><img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/BridgeWalker-v0_6.539.gif" />图1  范冰冰 </center></td>
+       <td><center><img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/BridgeWalker-v0_6.539.gif" />图2  范冰冰 </center></td>
+       <td><center><img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/BridgeWalker-v0_6.539.gif" />图3  范冰冰 </center></td>
+       <td><center><img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/BridgeWalker-v0_6.539.gif" />图4  范冰冰 </center></td>
     </tr>
 </table>
 
