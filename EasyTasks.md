@@ -13,6 +13,8 @@ Reward: 10.59
 <img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/Walker-v0_10.598.gif"  width=100/>
 </figure>
 
+
+<!-- 
 ### BridgeWalker-v0
 Reward: 6.539
 <img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/BridgeWalker-v0_6.539.gif" />
@@ -52,3 +54,4 @@ Reward: 32.11
 ### Balancer-v0
 Reward: 0.126
 <img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/Balancer-v0_0.126.gif" />
+ -->
