@@ -1,14 +1,21 @@
 
 # Easy Tasks
 
-The optimal robots obtained by AIEA.
+The optimal robots obtained by GA, BO, RFEA, and AIEA in five independent runs.
 The numbers of real fitness evaluations is set as 100.
 <table>
-    ### Walker-v0
-    <tr>
-       <td><center><img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/BridgeWalker-v0_6.539.gif" />图1  范冰冰 </center></td>
-       <td><center><img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/BridgeWalker-v0_6.539.gif" />图2  范冰冰 </center></td>
-       <td><center><img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/BridgeWalker-v0_6.539.gif" />图3  范冰冰 </center></td>
-       <td><center><img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/BridgeWalker-v0_6.539.gif" />图4  范冰冰 </center></td>
-    </tr>
+<tr>
+<td><center>Task</center></td>
+<td><center>GA</center></td>
+<td><center>BO</center></td>
+<td><center>RFEA</center></td>
+<td><center>AIEA</center></td>
+</tr>
+<tr>
+<td><center>Walker-v0</center></td>
+<td><center><img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/gif/ga_Walker-v0_10.561.gif" />Reward:10.561</center></td>
+<td><center><img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/gif/bo_Walker-v0_10.568.gif" />Reward:10.568</center></td>
+<td><center><img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/gif/rfea_Walker-v0_10.573.gif" />Reward:10.573</center></td>
+<td><center><img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/gif/aiea_Walker-v0_10.598.gif" />Reward:10.598</center></td>
+</tr>
 </table>
