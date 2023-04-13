@@ -3,7 +3,7 @@
 
 The optimal robots obtained by GA, BO, RFEA, and AIEA in five independent runs.
 
-The numbers of real fitness evaluations is set as 100.
+The numbers of real fitness evaluations is set as 150.
 
 The page's loading speed is slow, please be patient. Thank you!
 
