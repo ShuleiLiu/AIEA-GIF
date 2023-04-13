@@ -5,13 +5,15 @@ The optimal robots obtained by AIEA.
 The numbers of real fitness evaluations is set as 100.
 
 ### Walker-v0
-Reward: 10.59
-<figure>
-<img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/Walker-v0_10.598.gif"  width=50/>
-<img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/Walker-v0_10.598.gif"  width=50/>
-<img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/Walker-v0_10.598.gif"  width=50/>
-<img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/Walker-v0_10.598.gif"  width=50/>
-</figure>
+<table>
+    <tr>
+       <td><center><img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/BridgeWalker-v0_6.539.gif" >图1  范冰冰 </center></td>
+       <td><center><img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/BridgeWalker-v0_6.539.gif" >图1  范冰冰 </center></td>
+       <td><center><img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/BridgeWalker-v0_6.539.gif" >图1  范冰冰 </center></td>
+       <td><center><img src="https://github.com/shuleiLiu/AIEA-GIF/blob/main/task_gif/BridgeWalker-v0_6.539.gif" >图1  范冰冰 </center></td>
+    </tr>
+</table>
+
 
 
 <!-- 
